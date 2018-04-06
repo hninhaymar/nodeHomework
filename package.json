@@ -1,0 +1,31 @@
+{
+  "name": "nodehw",
+  "version": "1.0.0",
+  "description": "for node js homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node init -y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hninhaymar/nodeHomework.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Hnin Haymar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hninhaymar/nodeHomework/issues"
+  },
+  "homepage": "https://github.com/hninhaymar/nodeHomework#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^5.8.0",
+    "request": "^2.85.0",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}
